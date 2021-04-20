@@ -2,4 +2,3 @@ This Node CLI builds a team-displaying HTML file for a user based on their input
 
 images
 
-Screen Shot 2021-04-19 at 10.41.32 PM.png
