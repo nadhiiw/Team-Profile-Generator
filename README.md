@@ -4,3 +4,6 @@ images:
 
 ![](index.gif)
 
+
+The generated HTML page:
+
